@@ -1,0 +1,4 @@
+mongo:
+	user: "Nexus"
+	pass: "Nexus"
+	db: "Nexus"
